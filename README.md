@@ -15,10 +15,10 @@ The primary objective of this project was to create an Android app tailored for 
 
 ### Usage
 To utilize the Basketball Training Android App:
-1. Download the APK file from the Releases section of this repository.
-2. Install the APK on your Android device.
-3. Launch the app and follow the on-screen instructions to create an account or sign in.
-4. Explore the various training modules, track your progress, and improve your basketball skills!
+1. Download the entire app project from the provided source.
+2. Open the project in Android Studio or your preferred integrated development environment (IDE).
+3. Set up an Android simulator (emulator) on your development environment if you don't have a physical Android device available.
+4. Build and run the app project in the Android simulator to view and interact with the app's features and content
 
 ### Future Enhancements
 While the current version of the app provides a solid foundation, there are several opportunities for future enhancements:
