@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+
+    <corners android:radius="100dp"/> <!-- half of 200dp, assuming a width and height of 200dp for example -->
+
+    <gradient android:startColor="@color/purple_500" android:endColor="@color/black" android:angle="0.0"/>
+
+</shape>
+
+
+
+
+
+

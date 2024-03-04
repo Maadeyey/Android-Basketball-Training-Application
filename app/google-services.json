@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263790312068",
+    "project_id": "basketball-videos-3f7dc",
+    "storage_bucket": "basketball-videos-3f7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263790312068:android:18bf18273f0f13163320d1",
+        "android_client_info": {
+          "package_name": "com.example.fitnessapp_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263790312068-amsqt0r1mug1opj4sa9ta71inq5vocof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLVaQoliysc_pmvvNsuBOlTML35SkHT3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263790312068-amsqt0r1mug1opj4sa9ta71inq5vocof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

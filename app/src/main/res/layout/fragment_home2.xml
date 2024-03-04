@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    tools:context=".Home2">
+
+    <ScrollView
+
+
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/backgcrop"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/hammersmith_one"
+                    android:padding="5.0dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Drill of the day"
+                    android:textColor="#FFF"
+                    android:textSize="29dp"
+                    android:textStyle="bold" />
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginTop="25dp"
+                    android:background="@drawable/backgcrop"
+                    android:orientation="vertical"
+                    >
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="200.0dp"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <ImageButton
+                            android:id="@+id/drillofthedayimage"
+                            android:layout_width="350dp"
+                            android:layout_height="142dp"
+                            android:background="@drawable/drillpic"
+                            />
+                    </LinearLayout>
+
+
+                    <Button
+                        android:id="@+id/sbutton"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10.0dp"
+                        android:background="@drawable/btback"
+                        android:text="@string/start_now"
+                        android:textColor="#FFF"/>
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginTop="25dp"
+                android:background="@drawable/backgcrop"
+                android:orientation="vertical"
+                >
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/hammersmith_one"
+                        android:padding="5.0dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Quote of the day"
+                        android:textColor="#FFF"
+                        android:textSize="29dp"
+                        android:textStyle="bold" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/hammersmith_one"
+                        android:text="Push Harder Than\n Yesterday"
+                        android:layout_marginTop="2dp"
+                        android:gravity="center"
+                        android:textColor="@color/purple_500"
+                        android:textSize="29dp"
+                        android:textStyle="bold" />
+
+
+
+
+
+
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="200.0dp"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal"
+                    android:background="@drawable/backgcrop">
+
+
+                    <Button
+                        android:id="@+id/Handlesbutton2"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="20dp"
+                        android:background="@color/purple_700"
+                        android:text="Start \n handles"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <Button
+                        android:id="@+id/shortcutShooting2"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:layout_margin="20dp"
+                        android:background="@color/purple_700"
+                        android:text="Start \shooting"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:layout_marginTop="25dp"
+                    android:background="@drawable/backgcrop"
+                    android:orientation="vertical"
+                    >
+
+
+
+
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+
+
+
+</LinearLayout>

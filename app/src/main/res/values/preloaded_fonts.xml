@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/anton</item>
+        <item>@font/barlow</item>
+        <item>@font/barlow_extralight</item>
+        <item>@font/barlow_semi_condensed_thin</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/faster_one</item>
+        <item>@font/hammersmith_one</item>
+    </array>
+</resources>
