@@ -11,7 +11,7 @@ The primary objective of this project was to create an Android app tailored for 
 - **XML-Enhanced UI/UX**: The app's user interface is designed using XML layouts, providing a visually appealing and intuitive user experience.
 - **JUnit Testing**: Extensive JUnit tests have been implemented to verify the correctness and reliability of the app's functionalities, ensuring a high level of quality.
 - **SQLite Database Integration**: Utilizing SQLite enables the app to track users' calorie loss during training sessions, allowing for personalized fitness tracking and progress monitoring.
-- **Detailed Report**: A comprehensive report is included, offering insights into the app's development process, design decisions, implementation details, and testing methodologies.
+
 
 ### Usage
 To utilize the Basketball Training Android App:
